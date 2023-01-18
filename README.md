@@ -1,16 +1,19 @@
-### Hi there 👋
+# 👋 Hi I'm Leah, nice to meet you!
+Let me tell you about myself! Currently, I'm in my second and final year of the Interactive Design and Technology program at Saskatchewan Polytechnic. In this program I have gained many skills pertaining to all areas of design and technology and I plan to continue to grow and learn after I graduate.
 
-<!--
-**Leah753/Leah753** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+In my free time I enjoy hiking, creating art, petting my cats, and talking naps!
 
-Here are some ideas to get you started:
+### 🎓 Stuff I know:
+- HTML and CSS
+- Javascript
+- jquery
+- Bootstrap
+- Worpress
+- PHP
+- Python
+- SQL
+- Figma
+- The adobe suite
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 My Projects:
+Coming soon!
